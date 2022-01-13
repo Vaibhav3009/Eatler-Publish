@@ -46,7 +46,7 @@ mysqlclient==1.4.6
 Naked==0.1.31
 phonenumbers==8.12.3
 phonenumberslite==8.12.3
-Pillow==7.1.2
+Pillow==9.0.0
 pipenv==2020.6.2
 protobuf==3.12.2
 psycopg2==2.8.5

@@ -60,7 +60,7 @@ pycryptodome==3.9.7
 pyflakes==1.5.0
 PyGetWindow==0.0.8
 PyGoogleVoice==0.5.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMsgBox==1.0.8
 pypandoc==1.5
 pyperclip==1.8.0
